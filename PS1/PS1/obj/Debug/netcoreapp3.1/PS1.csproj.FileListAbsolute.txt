@@ -1,0 +1,14 @@
+C:\Users\Joey\source\repos\CS_4140_Programming_Assignments\PS1\PS1\bin\Debug\netcoreapp3.1\PS1.exe
+C:\Users\Joey\source\repos\CS_4140_Programming_Assignments\PS1\PS1\bin\Debug\netcoreapp3.1\PS1.deps.json
+C:\Users\Joey\source\repos\CS_4140_Programming_Assignments\PS1\PS1\bin\Debug\netcoreapp3.1\PS1.runtimeconfig.json
+C:\Users\Joey\source\repos\CS_4140_Programming_Assignments\PS1\PS1\bin\Debug\netcoreapp3.1\PS1.runtimeconfig.dev.json
+C:\Users\Joey\source\repos\CS_4140_Programming_Assignments\PS1\PS1\bin\Debug\netcoreapp3.1\PS1.dll
+C:\Users\Joey\source\repos\CS_4140_Programming_Assignments\PS1\PS1\bin\Debug\netcoreapp3.1\PS1.pdb
+C:\Users\Joey\source\repos\CS_4140_Programming_Assignments\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.csproj.AssemblyReference.cache
+C:\Users\Joey\source\repos\CS_4140_Programming_Assignments\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joey\source\repos\CS_4140_Programming_Assignments\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.AssemblyInfoInputs.cache
+C:\Users\Joey\source\repos\CS_4140_Programming_Assignments\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.AssemblyInfo.cs
+C:\Users\Joey\source\repos\CS_4140_Programming_Assignments\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.csproj.CoreCompileInputs.cache
+C:\Users\Joey\source\repos\CS_4140_Programming_Assignments\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.dll
+C:\Users\Joey\source\repos\CS_4140_Programming_Assignments\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.pdb
+C:\Users\Joey\source\repos\CS_4140_Programming_Assignments\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.genruntimeconfig.cache
